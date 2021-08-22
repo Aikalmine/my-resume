@@ -8,19 +8,19 @@ function Header(){
                 <div class="col">
                     <div class="row p-4 justify-content-center justify-content-md-between">
                         <div class="primary-info col-auto">
-                            <h1 class="name mt-0 mb-1 text-white text-uppercase text-uppercase">Steve Doe</h1>
+                            <h1 class="name mt-0 mb-1 text-white text-uppercase text-uppercase">Muhammad Ali</h1>
                             <div class="title mb-3">Full Stack Developer</div>
                             <ul class="list-unstyled">
-                                <li class="mb-2"><a class="text-link" href="#"><i class="far fa-envelope fa-fw me-2" data-fa-transform="grow-3"></i>Steve.Doe@website.com</a></li>
-                                <li><a class="text-link" href="#"><i class="fas fa-mobile-alt fa-fw me-2" data-fa-transform="grow-6"></i>0123 456 78900</a></li>
+                                <li class="mb-2"><a class="text-link" href="#"><i class="far fa-envelope fa-fw me-2" data-fa-transform="grow-3"></i>aikalmine@gmail.com</a></li>
+                                <li><a class="text-link" href="#"><i class="fas fa-mobile-alt fa-fw me-2" data-fa-transform="grow-6"></i>0344-5949436</a></li>
                             </ul>
                         </div>
                         <div class="secondary-info col-auto mt-2">
                             <ul class="resume-social list-unstyled">
-                                <li class="mb-3"><a rel="noreferrer"  class="text-link" href="#"><span class="fa-container text-center me-2"><i class="fab fa-linkedin-in fa-fw"></i></span>linkedin.com/in/stevedoe</a></li>
-                                <li class="mb-3"><a rel="noreferrer"  class="text-link" href="#"><span class="fa-container text-center me-2"><i class="fab fa-github-alt fa-fw"></i></span>github.com/username</a></li>
-                                <li class="mb-3"><a rel="noreferrer"  class="text-link" href="#"><span class="fa-container text-center me-2"><i class="fab fa-codepen fa-fw"></i></span>codepen.io/username/</a></li>
-                                <li><a rel="noreferrer"  class="text-link" href="#"><span class="fa-container text-center me-2"><i class="fas fa-globe"></i></span>yourwebsite.com</a></li>
+                                <li class="mb-3"><a rel="noreferrer" target="_blank"  class="text-link" href="https://www.linkedin.com/in/dev-mali"><span class="fa-container text-center me-2"><i class="fab fa-linkedin-in fa-fw"></i></span>https://www.linkedin.com/in/dev-mali</a></li>
+                                <li class="mb-3"><a rel="noreferrer" target="_blank"  class="text-link" href="https://github.com/Aikalmine"><span class="fa-container text-center me-2"><i class="fab fa-github-alt fa-fw"></i></span>https://www.linkedin.com/in/dev-mali</a></li>
+                                <li class="mb-3"><a rel="noreferrer" target="_blank"  class="text-link" href="#"><span class="fa-container text-center me-2"><i class="fab fa-codepen fa-fw"></i></span>codepen.io/username/</a></li>
+                                <li><a rel="noreferrer" target="_blank"  class="text-link" href="dev-mali.com"><span class="fa-container text-center me-2"><i class="fas fa-globe"></i></span>dev-mali.com</a></li>
                             </ul>
                         </div>
                     </div>
