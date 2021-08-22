@@ -17,9 +17,9 @@ function Header(){
                         </div>
                         <div class="secondary-info col-auto mt-2">
                             <ul class="resume-social list-unstyled">
-                                <li class="mb-3"><a rel="noreferrer" target="_blank"  class="text-link" href="https://www.linkedin.com/in/dev-mali"><span class="fa-container text-center me-2"><i class="fab fa-linkedin-in fa-fw"></i></span>https://www.linkedin.com/in/dev-mali</a></li>
-                                <li class="mb-3"><a rel="noreferrer" target="_blank"  class="text-link" href="https://github.com/Aikalmine"><span class="fa-container text-center me-2"><i class="fab fa-github-alt fa-fw"></i></span>https://www.linkedin.com/in/dev-mali</a></li>
-                                <li class="mb-3"><a rel="noreferrer" target="_blank"  class="text-link" href="#"><span class="fa-container text-center me-2"><i class="fab fa-codepen fa-fw"></i></span>codepen.io/username/</a></li>
+                                <li class="mb-3"><a rel="noreferrer" target="_blank"  class="text-link" href="https://www.linkedin.com/in/dev-mali"><span class="fa-container text-center me-2"><i class="fab fa-linkedin-in fa-fw"></i></span>www.linkedin.com/in/dev-mali</a></li>
+                                <li class="mb-3"><a rel="noreferrer" target="_blank"  class="text-link" href="https://github.com/Aikalmine"><span class="fa-container text-center me-2"><i class="fab fa-github-alt fa-fw"></i></span>github.com/Aikalmine</a></li>
+                                <li class="mb-3"><a rel="noreferrer" target="_blank"  class="text-link" href="https://stackoverflow.com/users/12098590/muhammad-ali"><span class="fa-container text-center me-2"><i class="fab fa-stack-overflow"></i></span>users/12098590/muhammad-ali</a></li>
                                 <li><a rel="noreferrer" target="_blank"  class="text-link" href="dev-mali.com"><span class="fa-container text-center me-2"><i class="fas fa-globe"></i></span>dev-mali.com</a></li>
                             </ul>
                         </div>
