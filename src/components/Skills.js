@@ -63,6 +63,25 @@ function Skills(){
                         </li>
                     </ul>
                 </div>
+
+                <div class="resume-skill-item">
+                    <h4 class="resume-skills-cat font-weight-bold">Database</h4>
+                    <ul class="list-unstyled">
+                        <li class="mb-2">
+                            <div class="resume-skill-name">MySQL</div>
+                            <div class="progress resume-progress">
+                                <div class="progress-bar theme-progress-bar-dark" role="progressbar" style={{width: '95%'}} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </li>
+                        <li class="mb-2">
+                            <div class="resume-skill-name">PostgreSQL</div>
+                            <div class="progress resume-progress">
+                                <div class="progress-bar theme-progress-bar-dark" role="progressbar" style={{width: '92%'}} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+
                 <div class="resume-skill-item">
                     <h4 class="resume-skills-cat font-weight-bold">Others</h4>
                     <ul class="list-inline">
