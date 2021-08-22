@@ -1,7 +1,9 @@
 import Education from "./Education";
 import Experience from "./Experience";
+import Language from "./Language";
 import Skills from "./Skills";
 import Summary from "./Summary";
+import Intrest from "./Intrest";
 
 function Main(){
     return (
@@ -12,6 +14,8 @@ function Main(){
                 <div class="col-lg-3">
                     <Skills/>
                     <Education/>
+                    <Language/>
+                    <Intrest/>
                 </div>
             </div>
         </div>

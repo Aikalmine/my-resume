@@ -66,11 +66,10 @@ function Skills(){
                 <div class="resume-skill-item">
                     <h4 class="resume-skills-cat font-weight-bold">Others</h4>
                     <ul class="list-inline">
-                        <li class="list-inline-item"><span class="badge badge-light">DevOps</span></li>
-                        <li class="list-inline-item"><span class="badge badge-light">Code Review</span></li>
-                        <li class="list-inline-item"><span class="badge badge-light">Git</span></li>
-                        <li class="list-inline-item"><span class="badge badge-light">Balsamiq</span></li>
-                        <li class="list-inline-item"><span class="badge badge-light">WordPress</span></li>
+                        <li class="list-inline-item"><span>DevOps</span></li>
+                        <li class="list-inline-item"><span>Code Review</span></li>
+                        <li class="list-inline-item"><span>Git</span></li>
+                        <li class="list-inline-item"><span>WordPress</span></li>
                     </ul>
                 </div>
             </div>
