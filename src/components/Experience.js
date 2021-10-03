@@ -14,7 +14,11 @@ function Experience(){
                             <div class="resume-position-time">Feb 2020 - Present</div>
                         </div>
                         <div class="resume-timeline-item-desc">
-                            <p>Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel.</p>
+                            <p>
+                                Developing and maintaining Web Applications, SaaS Product (Allotrac), Web Services, SQL query optimization, Webhooks, RESTfull APIs, PHPStorm, Navicat, SourceTree, JIRA, GIT and Code reviews for other developers. Software Architecting, Coordination with IOS, Android & QA team.
+                            </p>
+                            <h4 class="resume-timeline-item-desc-heading font-weight-bold">Achievements</h4>
+                            <p>Employee of the Month Award (March 2021).</p>
                             <h4 class="resume-timeline-item-desc-heading font-weight-bold">Technologies used:</h4>
                             <ul class="list-inline">
                                 <li class="list-inline-item"><span class="badge bg-secondary badge-pill">PHP/MVC</span></li>
@@ -40,9 +44,13 @@ function Experience(){
                             <div class="resume-position-time">Feb 2018 - Jan-2020</div>
                         </div>
                         <div class="resume-timeline-item-desc">
-                            <p>Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel.</p>
-                            <h4 class="resume-timeline-item-desc-heading font-weight-bold">Achievements</h4>
-                            <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+                            <p>
+                                Developing and maintaining custom web application. 
+                                Working on SaaS product like (https://vewbie.com/). Code review for team members. 
+                                Writing RESTfull APIS for mobile, and thirdparty software. Integrating third party APIs like Facebook, 
+                                Twitter, Youtube etc, code optimization and query optimization.
+                                Coordination with other teams mobile and IOS. 
+                            </p>
                             <h4 class="resume-timeline-item-desc-heading font-weight-bold">Technologies used:</h4>
                             <ul class="list-inline">
                                 <li class="list-inline-item"><span class="badge bg-secondary badge-pill">PHP</span></li>
@@ -62,13 +70,16 @@ function Experience(){
                         
                         <div class="resume-timeline-item-header mb-2">
                             <div class="d-flex flex-column flex-md-row">
-                                <h3 class="resume-position-title font-weight-bold mb-1">Xyper Technologies</h3>
-                                <div class="resume-company-name ms-auto">To-do Lists</div>
+                                <h3 class="resume-position-title font-weight-bold mb-1">Junior PHP Developer</h3>
+                                <div class="resume-company-name ms-auto">Xyper Technologies</div>
                             </div>
                             <div class="resume-position-time">Sep-2017 - Jan-2018</div>
                         </div>
                         <div class="resume-timeline-item-desc">
-                            <p>Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec.</p>
+                            <p>
+                                Developing and maintaining custom solution in PHP and Codigniter. Working with senior team mates.
+                                Learning new technologies.
+                            </p>
                             <h4 class="resume-timeline-item-desc-heading font-weight-bold">Technologies used:</h4>
                             <ul class="list-inline">
                                 <li class="list-inline-item"><span class="badge bg-secondary badge-pill">PHP</span></li>
